@@ -62,7 +62,7 @@ The project demonstrated how behavioral and lifestyle data can be analyzed to pr
 
 ## 🛠️ Technologies and Libraries
 
-- Python 3.x  
+- Python  
 - pandas  
 - matplotlib  
 - seaborn  
